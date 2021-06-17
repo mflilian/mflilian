@@ -7,15 +7,29 @@ I always like to talk about new technologies, new and old challenges. And I real
 
 __________________________
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180em" align="center"  src="https://github-readme-stats.vercel.app/api?username=mflilian&count_private=true&show_icons=true&theme=nightowl&hide_border=false&include_all_commits=true&layout=compact&)" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mflilian&langs_count=8&layout=compact&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&)" />
-</a>  
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mflilian&label=Profile%20views&color=blueviolet&style=flat-square" alt="mflilian"/>
-</p>
+ <div>
+  <a href="https://github.com/Larissamrs">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Larissamrs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Larissamrs&layout=compact&langs_count=16&theme=dracula"/>
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="May-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="May-An" height="30" width="40" src="https://brandslogos.com/wp-content/uploads/images/large/angular-icon-logo.png">
+  <img align="center" alt="May-Py" height="30" width="40" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png">
+  <img align="center" alt="May-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="May-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
+  
+  ##
+ 
+<div> 
+  <a href="https://www.instagram.com/mfliiian/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:mayhharamorais@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/mwlite/in/mayhhara-morais-78040a200/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+  ![Snake animation](https://github.com/mflilian/mflilian/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
 
 
 <!--

@@ -5,7 +5,7 @@ let bio: {
     name: "Mayhhara Morais",
     nickname: "May",
     education: "Second year Computer Science Undergradute Student",
-    location: "Carpina, Pernambuco, Brazil",
+    location: "Pernambuco, Brazil",
     code: "JavaScript and Python"
     }
 ```

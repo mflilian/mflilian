@@ -6,13 +6,12 @@ let bio: {
     nickname: "May",
     education: "Second year Computer Science Undergradute Student",
     location: "Pernambuco, Brazil",
-    code: "JavaScript and Python"
+    code: "JavaScript",
+    professional: "Front-end developer at AmbevTech and Full-stack developer at Wilcompute"
     }
 ```
 
-I'm Mayhhara Morais, and I'm a Associate Developer at AmbevTech. I'm from Brazil, and I'm currently living in Pernambuco. Today I'm currently studying data science, and I can always learn something new as well!
 
-I always like to talk about new technologies, new and old challenges. And I really like to help creating some educational content, so if I can help you with something, just get in touch [here](https://www.linkedin.com/mwlite/in/mayhhara-morais-78040a200).
 __________________________
 
  <div>

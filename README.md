@@ -6,8 +6,8 @@ let bio: {
     nickname: "May",
     education: "Second year Computer Science Undergradute Student",
     location: "Pernambuco, Brazil",
-    code: "JavaScript",
-    professional: "Front-end developer at AmbevTech and Full-stack developer at Wilcompute"
+    code: "GoLang",
+    professional: "Backend Engineer at @WildLifeStudios"
     }
 ```
 

@@ -6,7 +6,7 @@ let bio: {
     nickname: "May",
     education: "Second year Computer Science Undergradute Student",
     location: "Pernambuco, Brazil",
-    code: "GoLang",
+    code: "GoLang, Node.js",
     professional: "Backend Engineer at @WildLifeStudios"
     }
 ```

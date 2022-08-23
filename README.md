@@ -4,10 +4,10 @@
 let bio: {
     name: "Mayhhara Morais",
     nickname: "May",
-    education: "Second year Computer Science Undergradute Student",
+    education: "Information Systems student",
     location: "Pernambuco, Brazil",
     code: "GoLang, Node.js",
-    professional: "Backend Engineer at @WildLifeStudios"
+    professional: "Backend Engineer"
     }
 ```
 

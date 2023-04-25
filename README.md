@@ -6,9 +6,9 @@ let bio: {
     nickname: "May",
     education: "Information Systems student",
     location: "Pernambuco, Brazil",
-    code: "GoLang, Node.js",
+    code: "GoLang, Node.js, Python",
     professional: "Backend Engineer"
-    }
+}
 ```
 
 

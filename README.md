@@ -8,7 +8,7 @@ let bio: {
     location: "Pernambuco, Brazil",
     code: "GoLang, Node.js, Python",
     professional: "Backend Engineer"
-}
+    }
 ```
 
 
